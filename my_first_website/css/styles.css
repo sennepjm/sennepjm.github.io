@@ -1,0 +1,14 @@
+h1 {
+
+    color: red;
+}
+
+img {
+    background-color: white;
+    max-width: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: pink;
+}
