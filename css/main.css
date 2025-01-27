@@ -1,3 +1,14 @@
+
+
 body {
-    background-color: red;
+    background-color: firebrick;
 }
+
+h1 {
+    color: aqua;
+}
+
+strong {
+    font-family: sans-serif;
+}
+
